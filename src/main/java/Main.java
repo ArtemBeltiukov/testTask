@@ -9,6 +9,5 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("kekw");
-        
     }
 }
