@@ -10,5 +10,6 @@ public class Main {
         }
         System.out.println("kekw");
         System.out.println("t2");
+        System.out.println("update");
     }
 }
